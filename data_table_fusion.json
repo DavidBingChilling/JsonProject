@@ -1,0 +1,506 @@
+[
+    {
+        "Nom de la nouvelle commune": "La Selle-sur-le-Bied",
+        "Communes réunies": "La Selle-sur-le-Bied, Saint-Loup-de-Gonois",
+        "Régime": "commune nouvelle (avec communes déléguées)",
+        "Décision": "Arrêté préfectoral du 26 février 2019[1]",
+        "Date d'effet": "1er mars 2019",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/La_Selle-sur-le-Bied",
+        "Coordonnées": {
+            "code_commune": "45307",
+            "coordonnees": {
+                "latitude": 48.0655555556,
+                "longitude": 2.89583333333
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Bray-Saint-Aignan",
+        "Communes réunies": "Bray-en-Val, Saint-Aignan-des-Gués",
+        "Régime": "commune nouvelle (avec communes déléguées)",
+        "Décision": "Arrêté préfectoral du 25 juillet 2016[2]",
+        "Date d'effet": "1er janvier 2017",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Bray-Saint-Aignan",
+        "Coordonnées": {
+            "code_commune": "45051",
+            "coordonnees": {
+                "latitude": 47.8305555556,
+                "longitude": 2.3675
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Le Malesherbois",
+        "Communes réunies": "Malesherbes, Coudray, Labrosse, Mainvilliers, Manchecourt, Nangeville, Orveau-Bellesauve",
+        "Régime": "commune nouvelle (avec communes déléguées)",
+        "Décision": "Arrêté préfectoral du 30 novembre 2015[3]",
+        "Date d'effet": "1er janvier 2016",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Le_Malesherbois",
+        "Coordonnées": {
+            "code_commune": "45191",
+            "coordonnees": {
+                "latitude": 48.2961111111,
+                "longitude": 2.4058333333
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Douchy-Montcorbon",
+        "Communes réunies": "Douchy, Montcorbon",
+        "Régime": "commune nouvelle (SANS communes déléguées, depuis 2020)",
+        "Décision": "Arrêté préfectoral du 30 novembre 2015[4]",
+        "Date d'effet": "1er janvier 2016",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Douchy-Montcorbon",
+        "Coordonnées": {
+            "code_commune": "45129",
+            "coordonnees": {
+                "latitude": 47.9430555556,
+                "longitude": 3.0533333333
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Boiscommun",
+        "Communes réunies": "Boiscommun, Chemault",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 16 avril 1974[5]",
+        "Date d'effet": "1er juin 1974",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Boiscommun",
+        "Coordonnées": {
+            "code_commune": "45035",
+            "coordonnees": {
+                "latitude": 48.0375,
+                "longitude": 2.38388888889
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Yèvre-la-Ville",
+        "Communes réunies": "Yèvre-la-Ville, Yèvre-le-Châtel",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 9 avril 1973[6]",
+        "Date d'effet": "1er juin 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Y%C3%A8vre-la-Ville",
+        "Coordonnées": {
+            "code_commune": "45348",
+            "coordonnees": {
+                "latitude": 48.1463888889,
+                "longitude": 2.32722222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Crottes-en-Pithiverais",
+        "Communes réunies": "Crottes-en-Pithiverais, Teillay-Saint-Benoît",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 30 décembre 1972[7]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Crottes-en-Pithiverais",
+        "Coordonnées": {
+            "code_commune": "45118",
+            "coordonnees": {
+                "latitude": 48.125,
+                "longitude": 2.06666666667
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Bazoches-les-Gallerandes",
+        "Communes réunies": "Bazoches-les-Gallerandes, Izy",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 14 décembre 1972[8]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Bazoches-les-Gallerandes",
+        "Coordonnées": {
+            "code_commune": "45025",
+            "coordonnees": {
+                "latitude": 48.1630555556,
+                "longitude": 2.04388888889
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Greneville-en-Beauce",
+        "Communes réunies": "Greneville-en-Beauce, Guignonville",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 12 décembre 1972[8]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Greneville-en-Beauce",
+        "Coordonnées": {
+            "code_commune": "45160",
+            "coordonnees": {
+                "latitude": 48.1825,
+                "longitude": 2.11361111111
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Outarville",
+        "Communes réunies": "Outarville, Allainville-en-Beauce, Faronville, Saint-Péravy-Épreux, Teillay-le-Gaudin",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 8 décembre 1972[8]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Outarville",
+        "Coordonnées": {
+            "code_commune": "45240",
+            "coordonnees": {
+                "latitude": 48.2113888889,
+                "longitude": 2.0205555556
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Gien",
+        "Communes réunies": "Gien, Arrabloy",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 16 octobre 1972[9]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Gien",
+        "Coordonnées": {
+            "code_commune": "45155",
+            "coordonnees": {
+                "latitude": 47.6897222222,
+                "longitude": 2.63
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Césarville",
+        "Communes réunies": "Césarville, Dossainville",
+        "Régime": "fusion association (fusion simple depuis 1978)[10]",
+        "Décision": "Arrêté préfectoral du 9 octobre 1972[11]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/C%C3%A9sarville-Dossainville",
+        "Coordonnées": {
+            "code_commune": "45065",
+            "coordonnees": {
+                "latitude": 48.2619444444,
+                "longitude": 2.27722222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Guigneville",
+        "Communes réunies": "Guigneville, Sébouville",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 15 septembre 1972[12]",
+        "Date d'effet": "1er janvier 1973",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Guigneville",
+        "Coordonnées": {
+            "code_commune": "45162",
+            "coordonnees": {
+                "latitude": 48.2069444444,
+                "longitude": 2.17805555556
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Pithiviers-le-Vieil",
+        "Communes réunies": "Pithiviers-le-Vieil, Bouzonville-en-Beauce",
+        "Régime": "fusion association",
+        "Décision": "Arrêté préfectoral du 16 juin 1972[13]",
+        "Date d'effet": "1er septembre 1972",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Pithiviers-le-Vieil",
+        "Coordonnées": {
+            "code_commune": "45253",
+            "coordonnees": {
+                "latitude": 48.1633333333,
+                "longitude": 2.21
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Varennes-Changy",
+        "Communes réunies": "Varennes-en-Gâtinais, Changy",
+        "Régime": "fusion",
+        "Décision": "Arrêté préfectoral du 5 octobre 1970[14]",
+        "Date d'effet": "1er janvier 1971",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Varennes-Changy",
+        "Coordonnées": {
+            "code_commune": "45332",
+            "coordonnees": {
+                "latitude": 47.8666666667,
+                "longitude": 2.6666666667
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Chevilly",
+        "Communes réunies": "Chevilly, Creuzy (1 partie)",
+        "Régime": "fusion",
+        "Décision": "Arrêté préfectoral du 31 décembre 1964[15]",
+        "Date d'effet": "1er janvier 1965",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Chevilly_(Loiret)",
+        "Coordonnées": {
+            "code_commune": "45093",
+            "coordonnees": {
+                "latitude": 48.0297222222,
+                "longitude": 1.87472222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Sougy",
+        "Communes réunies": "Sougy, Creuzy (1 partie)",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Sougy",
+        "Coordonnées": {
+            "code_commune": "45313",
+            "coordonnees": {
+                "latitude": 48.0544444444,
+                "longitude": 1.7905555556
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Neuville-aux-Bois",
+        "Communes réunies": "Neuville-aux-Bois, Saint-Germain-le-Grand",
+        "Régime": "fusion",
+        "Décision": "1831",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Neuville-aux-Bois_(Loiret)",
+        "Coordonnées": {
+            "code_commune": "45224",
+            "coordonnees": {
+                "latitude": 48.0708333333,
+                "longitude": 2.05472222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Orveau",
+        "Communes réunies": "Orveau, Gollainville",
+        "Régime": "fusion",
+        "Décision": "1828",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Orveau-Bellesauve",
+        "Coordonnées": {
+            "code_commune": "45236",
+            "coordonnees": {
+                "latitude": 48.2827777778,
+                "longitude": 2.32972222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Loury",
+        "Communes réunies": "Loury, Le Bourgneuf",
+        "Régime": "fusion",
+        "Décision": "1824",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Loury",
+        "Coordonnées": {
+            "code_commune": "45188",
+            "coordonnees": {
+                "latitude": 48.0019444444,
+                "longitude": 2.08583333333
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Saint-Pryvé-Saint-Mesmin",
+        "Communes réunies": "Saint-Pryvé-Saint-Mesmin, Saint-Nicolas-Saint-Mesmin",
+        "Régime": "fusion",
+        "Décision": "1824",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Saint-Pryv%C3%A9-Saint-Mesmin",
+        "Coordonnées": {
+            "code_commune": "45298",
+            "coordonnees": {
+                "latitude": 47.8816666667,
+                "longitude": 1.86861111111
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Tournoisis",
+        "Communes réunies": "Tournoisis, Nids",
+        "Régime": "fusion",
+        "Décision": "1824",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Tournoisis",
+        "Coordonnées": {
+            "code_commune": "45326",
+            "coordonnees": {
+                "latitude": 48.0063888889,
+                "longitude": 1.63111111111
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Pithiviers",
+        "Communes réunies": "Pithiviers, Le Bourg-l'Abbaye",
+        "Régime": "fusion",
+        "Décision": "1823",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Pithiviers",
+        "Coordonnées": {
+            "code_commune": "45252",
+            "coordonnees": {
+                "latitude": 48.1725,
+                "longitude": 2.2525
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Aulnay-la-Rivière",
+        "Communes réunies": "Aulnay-la-Rivière, Villereau",
+        "Régime": "fusion",
+        "Décision": "1821",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Aulnay-la-Rivi%C3%A8re",
+        "Coordonnées": {
+            "code_commune": "45014",
+            "coordonnees": {
+                "latitude": 48.1963888889,
+                "longitude": 2.37972222222
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Vrigny",
+        "Communes réunies": "Vrigny, Limiers",
+        "Régime": "fusion",
+        "Décision": "1821",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Vrigny_(Loiret)",
+        "Coordonnées": {
+            "code_commune": "45347",
+            "coordonnees": {
+                "latitude": 48.0816666667,
+                "longitude": 2.24388888889
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Yèvre-le-Châtel",
+        "Communes réunies": "Yèvre-le-Châtel, Souville",
+        "Régime": "fusion",
+        "Décision": "1821",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Y%C3%A8vre-le-Ch%C3%A2tel",
+        "Coordonnées": {
+            "code_commune": "45349",
+            "coordonnees": {
+                "latitude": 48.16,
+                "longitude": 2.33389
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Férolles",
+        "Communes réunies": "Férolles, La Queuvre",
+        "Régime": "fusion",
+        "Décision": "1818",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/F%C3%A9rolles",
+        "Coordonnées": {
+            "code_commune": "45144",
+            "coordonnees": {
+                "latitude": 47.8355,
+                "longitude": 2.1112
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Charmont",
+        "Communes réunies": "Charmont, Gironville",
+        "Régime": "fusion",
+        "Décision": "1813",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Charmont-en-Beauce",
+        "Coordonnées": {
+            "code_commune": "45080",
+            "coordonnees": {
+                "latitude": 48.2327777778,
+                "longitude": 2.10638888889
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Malesherbes",
+        "Communes réunies": "Malesherbes, Rouville, Trézan",
+        "Régime": "fusion",
+        "Décision": "1813",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Malesherbes_(Loiret)",
+        "Coordonnées": {
+            "code_commune": "45191",
+            "coordonnees": {
+                "latitude": 48.2961111111,
+                "longitude": 2.4058333333
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Nibelle",
+        "Communes réunies": "Nibelle, Saint-Sauveur",
+        "Régime": "fusion",
+        "Décision": "1813",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Nibelle",
+        "Coordonnées": {
+            "code_commune": "45228",
+            "coordonnees": {
+                "latitude": 48.0219,
+                "longitude": 2.3275
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Engenville",
+        "Communes réunies": "Engenville, Montville",
+        "Régime": "fusion",
+        "Décision": "1812",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Engenville",
+        "Coordonnées": {
+            "code_commune": "45133",
+            "coordonnees": {
+                "latitude": 48.2388888889,
+                "longitude": 2.24666666667
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Autry-le-Châtel",
+        "Communes réunies": "Autry-le-Châtel, Autry-la-Ville",
+        "Régime": "fusion",
+        "Décision": "1795",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Autry-le-Ch%C3%A2tel",
+        "Coordonnées": {
+            "code_commune": "45016",
+            "coordonnees": {
+                "latitude": 47.5983333333,
+                "longitude": 2.60305555556
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Cléry-Saint-André",
+        "Communes réunies": "Cléry, Saint-André",
+        "Régime": "fusion",
+        "Décision": "1795",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Cl%C3%A9ry-Saint-Andr%C3%A9",
+        "Coordonnées": {
+            "code_commune": "45098",
+            "coordonnees": {
+                "latitude": 47.8211,
+                "longitude": 1.755
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Sainte-Geneviève-des-Bois",
+        "Communes réunies": "Sainte-Geneviève-des-Bois, Bricquemault",
+        "Régime": "fusion",
+        "Décision": "1795",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Sainte-Genevi%C3%A8ve-des-Bois_(Loiret)",
+        "Coordonnées": {
+            "code_commune": "45278",
+            "coordonnees": {
+                "latitude": 47.817422,
+                "longitude": 2.820159
+            }
+        }
+    },
+    {
+        "Nom de la nouvelle commune": "Lailly-en-Val",
+        "Communes réunies": "Lailly-en-Val, Monçay",
+        "Régime": "fusion",
+        "Décision": "1791",
+        "Wikipedia_link": "https://fr.wikipedia.org/wiki/Lailly-en-Val",
+        "Coordonnées": {
+            "code_commune": "45179",
+            "coordonnees": {
+                "latitude": 47.7705555556,
+                "longitude": 1.687222222
+            }
+        }
+    }
+]

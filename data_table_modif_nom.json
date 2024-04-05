@@ -1,0 +1,816 @@
+[
+    {
+        "Ancien nom": "Courcelles",
+        "Nouveau nom": "Courcelles-le-Roi",
+        "Décision": "Décret du 5 novembre 2018[17]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Courcelles-le-Roi",
+        "code_commune": "45110",
+        "coordonnees": {
+            "latitude": 48.0961111111,
+            "longitude": 2.3188888889
+        }
+    },
+    {
+        "Ancien nom": "Rosoy-le-Vieil",
+        "Nouveau nom": "Rozoy-le-Vieil",
+        "Décision": "Décret du 19 mars 2009[18]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Rozoy-le-Vieil",
+        "code_commune": "45265",
+        "coordonnees": {
+            "latitude": 48.125,
+            "longitude": 2.94638888889
+        }
+    },
+    {
+        "Ancien nom": "Boësse",
+        "Nouveau nom": "Boësses",
+        "Décision": "Décret du 1er février 2001[19]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bo%C3%ABsses",
+        "code_commune": "45033",
+        "coordonnees": {
+            "latitude": 48.1516666667,
+            "longitude": 2.44833333333
+        }
+    },
+    {
+        "Ancien nom": "Ferrières",
+        "Nouveau nom": "Ferrières-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ferri%C3%A8res-en-G%C3%A2tinais",
+        "code_commune": "45145",
+        "coordonnees": {
+            "latitude": 48.0930555556,
+            "longitude": 2.79027777778
+        },
+        "Décision": "Décret du 1er février 2001[19]"
+    },
+    {
+        "Ancien nom": "Châteaurenard",
+        "Nouveau nom": "Château-Renard",
+        "Décision": "Décret du 16 novembre 1998[20]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Renard",
+        "code_commune": "45083",
+        "coordonnees": {
+            "latitude": 47.9313888889,
+            "longitude": 2.92805555556
+        }
+    },
+    {
+        "Ancien nom": "Beaulieu",
+        "Nouveau nom": "Beaulieu-sur-Loire",
+        "Décision": "Décret du 10 mars 1988[21]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Beaulieu-sur-Loire",
+        "code_commune": "45029",
+        "coordonnees": {
+            "latitude": 47.5433333333,
+            "longitude": 2.81777777778
+        }
+    },
+    {
+        "Ancien nom": "Césarville",
+        "Nouveau nom": "Césarville-Dossainville",
+        "Décision": "Arrêté préfectoral du 2 décembre 1977[10]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/C%C3%A9sarville-Dossainville",
+        "code_commune": "45065",
+        "coordonnees": {
+            "latitude": 48.2619444444,
+            "longitude": 2.27722222222
+        }
+    },
+    {
+        "Ancien nom": "Fontenay",
+        "Nouveau nom": "Fontenay-sur-Loing",
+        "Décision": "Décret du 14 janvier 1957[22]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Fontenay-sur-Loing",
+        "code_commune": "45148",
+        "coordonnees": {
+            "latitude": 48.105,
+            "longitude": 2.775
+        }
+    },
+    {
+        "Ancien nom": "Ousson",
+        "Nouveau nom": "Ousson-sur-Loire",
+        "Décision": "Décret du 20 décembre 1956[23]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ousson-sur-Loire",
+        "code_commune": "45238",
+        "coordonnees": {
+            "latitude": 47.588785,
+            "longitude": 2.787031
+        }
+    },
+    {
+        "Ancien nom": "Mézières-sous-Bellegarde",
+        "Nouveau nom": "Mézières-en-Gâtinais",
+        "Décision": "Décret du 13 août 1939[24]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/M%C3%A9zi%C3%A8res-en-G%C3%A2tinais",
+        "code_commune": "45205",
+        "coordonnees": {
+            "latitude": 48.035833,
+            "longitude": 2.490833
+        }
+    },
+    {
+        "Ancien nom": "Grigneville",
+        "Nouveau nom": "Greneville-en-Beauce",
+        "Décision": "Décret du 1er avril 1939[25]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Greneville-en-Beauce",
+        "code_commune": "45160",
+        "coordonnees": {
+            "latitude": 48.1825,
+            "longitude": 2.11361111111
+        }
+    },
+    {
+        "Ancien nom": "Oussoy",
+        "Nouveau nom": "Oussoy-en-Gâtinais",
+        "Décision": "Décret du 21 novembre 1937[26]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Oussoy-en-G%C3%A2tinais",
+        "code_commune": "45239",
+        "coordonnees": {
+            "latitude": 47.9167,
+            "longitude": 2.65
+        }
+    },
+    {
+        "Ancien nom": "Boigny",
+        "Nouveau nom": "Boigny-sur-Bionne",
+        "Décision": "Décret du 21 février 1933[27]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Boigny-sur-Bionne",
+        "code_commune": "45034",
+        "coordonnees": {
+            "latitude": 47.9283333333,
+            "longitude": 2.01
+        }
+    },
+    {
+        "Ancien nom": "Bouilly",
+        "Nouveau nom": "Bouilly-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bouilly-en-G%C3%A2tinais",
+        "code_commune": "45045",
+        "coordonnees": {
+            "latitude": 48.0961111111,
+            "longitude": 2.28527777778
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Boulay",
+        "Nouveau nom": "Boulay-les-Barres",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Boulay-les-Barres",
+        "code_commune": "45046",
+        "coordonnees": {
+            "latitude": 47.9811111111,
+            "longitude": 1.78444444444
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Bouzy",
+        "Nouveau nom": "Bouzy-la-Forêt",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bouzy-la-For%C3%AAt",
+        "code_commune": "45049",
+        "coordonnees": {
+            "latitude": 47.8522222222,
+            "longitude": 2.37944444444
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Bray",
+        "Nouveau nom": "Bray-en-Val",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bray-en-Val",
+        "code_commune": "45051",
+        "coordonnees": {
+            "latitude": 47.8305555556,
+            "longitude": 2.3675
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Cernoy",
+        "Nouveau nom": "Cernoy-en-Berry",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Cernoy-en-Berry",
+        "code_commune": "45064",
+        "coordonnees": {
+            "latitude": 47.5408333333,
+            "longitude": 2.66194444444
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Chailly",
+        "Nouveau nom": "Chailly-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Chailly-en-G%C3%A2tinais",
+        "code_commune": "45066",
+        "coordonnees": {
+            "latitude": 47.9486111111,
+            "longitude": 2.54361111111
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Châlette",
+        "Nouveau nom": "Châlette-sur-Loing",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ch%C3%A2lette-sur-Loing",
+        "code_commune": "45068",
+        "coordonnees": {
+            "latitude": 48.0125,
+            "longitude": 2.73638888889
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Charmont",
+        "Nouveau nom": "Charmont-en-Beauce",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Charmont-en-Beauce",
+        "code_commune": "45080",
+        "coordonnees": {
+            "latitude": 48.2327777778,
+            "longitude": 2.10638888889
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Chevry",
+        "Nouveau nom": "Chevry-sous-le-Bignon",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Chevry-sous-le-Bignon",
+        "code_commune": "45094",
+        "coordonnees": {
+            "latitude": 48.1416666667,
+            "longitude": 2.89805555556
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Fréville",
+        "Nouveau nom": "Fréville-du-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Fr%C3%A9ville-du-G%C3%A2tinais",
+        "code_commune": "45150",
+        "coordonnees": {
+            "latitude": 48.024444,
+            "longitude": 2.445278
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Mormant",
+        "Nouveau nom": "Mormant-sur-Vernisson",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Mormant-sur-Vernisson",
+        "code_commune": "45216",
+        "coordonnees": {
+            "latitude": 47.9480555556,
+            "longitude": 2.73833333333
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Le Moulinet",
+        "Nouveau nom": "Le Moulinet-sur-Solin",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Le_Moulinet-sur-Solin",
+        "code_commune": "45218",
+        "coordonnees": {
+            "latitude": 47.8381,
+            "longitude": 2.6272
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Orveau",
+        "Nouveau nom": "Orveau-Bellesauve",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Orveau-Bellesauve",
+        "code_commune": "45236",
+        "coordonnees": {
+            "latitude": 48.2827777778,
+            "longitude": 2.32972222222
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Pers",
+        "Nouveau nom": "Pers-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Pers-en-G%C3%A2tinais",
+        "code_commune": "45250",
+        "coordonnees": {
+            "latitude": 48.1194444444,
+            "longitude": 2.90527777778
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Varennes",
+        "Nouveau nom": "Varennes-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Varennes-en-G%C3%A2tinais",
+        "code_commune": "45332",
+        "coordonnees": {
+            "latitude": 47.8666666667,
+            "longitude": 2.6666666667
+        },
+        "Décision": "Décret du 21 février 1933[27]"
+    },
+    {
+        "Ancien nom": "Bordeaux",
+        "Nouveau nom": "Bordeaux-en-Gâtinais",
+        "Décision": "Décret du 2 juillet 1921[28]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bordeaux-en-G%C3%A2tinais",
+        "code_commune": "45041",
+        "coordonnees": {
+            "latitude": 48.0997222222,
+            "longitude": 2.52777777778
+        }
+    },
+    {
+        "Ancien nom": "Allainville",
+        "Nouveau nom": "Allainville-en-Beauce",
+        "Décision": "Décret du 5 août 1919[29]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Allainville-en-Beauce",
+        "code_commune": "45240",
+        "coordonnees": {
+            "latitude": 48.2113888889,
+            "longitude": 2.0205555556
+        }
+    },
+    {
+        "Ancien nom": "Auvilliers",
+        "Nouveau nom": "Auvilliers-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Auvilliers-en-G%C3%A2tinais",
+        "code_commune": "45017",
+        "coordonnees": {
+            "latitude": 47.9652777778,
+            "longitude": 2.50027777778
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Auxy",
+        "Nouveau nom": "Auxy-du-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Auxy_(Loiret)",
+        "code_commune": "45018",
+        "coordonnees": {
+            "latitude": 48.1194444444,
+            "longitude": 2.47527777778
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Barville",
+        "Nouveau nom": "Barville-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Barville-en-G%C3%A2tinais",
+        "code_commune": "45021",
+        "coordonnees": {
+            "latitude": 48.1127777778,
+            "longitude": 2.40333333333
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Batilly-sur-Loire",
+        "Nouveau nom": "Batilly-en-Puisaye",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Batilly-en-Puisaye",
+        "code_commune": "45023",
+        "coordonnees": {
+            "latitude": 47.6130555556,
+            "longitude": 2.88416666667
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Conflans",
+        "Nouveau nom": "Conflans-sur-Loing",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Conflans-sur-Loing",
+        "code_commune": "45102",
+        "coordonnees": {
+            "latitude": 47.9530555556,
+            "longitude": 2.79
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Courcy",
+        "Nouveau nom": "Courcy-aux-Loges",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Courcy-aux-Loges",
+        "code_commune": "45111",
+        "coordonnees": {
+            "latitude": 48.0652777778,
+            "longitude": 2.21333333333
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Crottes",
+        "Nouveau nom": "Crottes-en-Pithiverais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Crottes-en-Pithiverais",
+        "code_commune": "45118",
+        "coordonnees": {
+            "latitude": 48.125,
+            "longitude": 2.06666666667
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Dampierre",
+        "Nouveau nom": "Dampierre-en-Burly",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Dampierre-en-Burly",
+        "code_commune": "45122",
+        "coordonnees": {
+            "latitude": 47.7608333333,
+            "longitude": 2.51833333333
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Épieds",
+        "Nouveau nom": "Épieds-en-Beauce",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/%C3%89pieds-en-Beauce",
+        "code_commune": "45134",
+        "coordonnees": {
+            "latitude": 47.9508333333,
+            "longitude": 1.61861111111
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Feins",
+        "Nouveau nom": "Feins-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Feins-en-G%C3%A2tinais",
+        "code_commune": "45143",
+        "coordonnees": {
+            "latitude": 47.7463888889,
+            "longitude": 2.8411111111
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Girolles",
+        "Nouveau nom": "Girolles-du-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Girolles_(Loiret)",
+        "code_commune": "45156",
+        "coordonnees": {
+            "latitude": 48.0613888889,
+            "longitude": 2.7158333333
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Marigny",
+        "Nouveau nom": "Marigny-les-Usages",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Marigny-les-Usages",
+        "code_commune": "45197",
+        "coordonnees": {
+            "latitude": 47.9577777778,
+            "longitude": 2.01722222222
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Morville",
+        "Nouveau nom": "Morville-en-Beauce",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Morville-en-Beauce",
+        "code_commune": "45217",
+        "coordonnees": {
+            "latitude": 48.2505555556,
+            "longitude": 2.17333333333
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Nancray",
+        "Nouveau nom": "Nancray-sur-Rimarde",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Nancray-sur-Rimarde",
+        "code_commune": "45220",
+        "coordonnees": {
+            "latitude": 48.069,
+            "longitude": 2.334
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "La Neuville",
+        "Nouveau nom": "La Neuville-sur-Essonne",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/La_Neuville-sur-Essonne",
+        "code_commune": "45225",
+        "coordonnees": {
+            "latitude": 48.1866666667,
+            "longitude": 2.3763888889
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Ondreville",
+        "Nouveau nom": "Ondreville-sur-Essonne",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ondreville-sur-Essonne",
+        "code_commune": "45233",
+        "coordonnees": {
+            "latitude": 48.1997,
+            "longitude": 2.4089
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Pressigny",
+        "Nouveau nom": "Pressigny-les-Pins",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Pressigny-les-Pins",
+        "code_commune": "45257",
+        "coordonnees": {
+            "latitude": 47.8819444444,
+            "longitude": 2.7516666667
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Quiers",
+        "Nouveau nom": "Quiers-sur-Bezonde",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Quiers-sur-Bezonde",
+        "code_commune": "45259",
+        "coordonnees": {
+            "latitude": 47.999167,
+            "longitude": 2.437778
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Rouvres",
+        "Nouveau nom": "Rouvres-Saint-Jean",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Rouvres-Saint-Jean",
+        "code_commune": "45263",
+        "coordonnees": {
+            "latitude": 48.3233333333,
+            "longitude": 2.21194444444
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Saint-Brisson",
+        "Nouveau nom": "Saint-Brisson-sur-Loire",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Saint-Brisson-sur-Loire",
+        "code_commune": "45271",
+        "coordonnees": {
+            "latitude": 47.6485555,
+            "longitude": 2.684
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Saint-Lyé",
+        "Nouveau nom": "Saint-Lyé-la-Forêt",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Saint-Ly%C3%A9-la-For%C3%AAt",
+        "code_commune": "45289",
+        "coordonnees": {
+            "latitude": 48.0408333333,
+            "longitude": 1.98277777778
+        },
+        "Décision": "Décret du 5 août 1919[29]"
+    },
+    {
+        "Ancien nom": "Beauchamps",
+        "Nouveau nom": "Beauchamps-sur-Huillard",
+        "Décision": "Décret du 30 novembre 1918[30]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Beauchamps-sur-Huillard",
+        "code_commune": "45027",
+        "coordonnees": {
+            "latitude": 47.9391666667,
+            "longitude": 2.45388888889
+        }
+    },
+    {
+        "Ancien nom": "Bougy",
+        "Nouveau nom": "Bougy-lez-Neuville",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Bougy-lez-Neuville",
+        "code_commune": "45044",
+        "coordonnees": {
+            "latitude": 48.0408333333,
+            "longitude": 2.02805555556
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Chevillon",
+        "Nouveau nom": "Chevillon-sur-Huillard",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Chevillon-sur-Huillard",
+        "code_commune": "45092",
+        "coordonnees": {
+            "latitude": 47.9630555556,
+            "longitude": 2.62611111111
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Cléry",
+        "Nouveau nom": "Cléry-Saint-André",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Cl%C3%A9ry-Saint-Andr%C3%A9",
+        "code_commune": "45098",
+        "coordonnees": {
+            "latitude": 47.8211,
+            "longitude": 1.755
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Lailly",
+        "Nouveau nom": "Lailly-en-Val",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Lailly-en-Val",
+        "code_commune": "45179",
+        "coordonnees": {
+            "latitude": 47.7705555556,
+            "longitude": 1.687222222
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Mézières",
+        "Nouveau nom": "Mézières-lès-Cléry",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/M%C3%A9zi%C3%A8res-lez-Cl%C3%A9ry",
+        "code_commune": "45204",
+        "coordonnees": {
+            "latitude": 47.8182,
+            "longitude": 1.80439
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Poilly",
+        "Nouveau nom": "Poilly-lez-Gien",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Poilly-lez-Gien",
+        "code_commune": "45254",
+        "coordonnees": {
+            "latitude": 47.6786111111,
+            "longitude": 2.59997222222
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Rozières",
+        "Nouveau nom": "Rozières-en-Beauce",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Rozi%C3%A8res-en-Beauce",
+        "code_commune": "45264",
+        "coordonnees": {
+            "latitude": 47.9425,
+            "longitude": 1.7025
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Saint-Père",
+        "Nouveau nom": "Saint-Père-sur-Loire",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Saint-P%C3%A8re-sur-Loire",
+        "code_commune": "45297",
+        "coordonnees": {
+            "latitude": 47.7748,
+            "longitude": 2.3718
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Treilles",
+        "Nouveau nom": "Treilles-en-Gâtinais",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Treilles-en-G%C3%A2tinais",
+        "code_commune": "45328",
+        "coordonnees": {
+            "latitude": 48.0786111111,
+            "longitude": 2.6602777778
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Vieilles-Maisons",
+        "Nouveau nom": "Vieilles-Maisons-sur-Joudry",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Vieilles-Maisons-sur-Joudry",
+        "code_commune": "45334",
+        "coordonnees": {
+            "latitude": 47.8866666667,
+            "longitude": 2.44555555556
+        },
+        "Décision": "Décret du 30 novembre 1918[30]"
+    },
+    {
+        "Ancien nom": "Chambon",
+        "Nouveau nom": "Chambon-la-Forêt",
+        "Décision": "Décret du 2 avril 1913[31]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Chambon-la-For%C3%AAt",
+        "code_commune": "45069",
+        "coordonnees": {
+            "latitude": 48.069247,
+            "longitude": 2.298889
+        }
+    },
+    {
+        "Ancien nom": "Vannes",
+        "Nouveau nom": "Vannes-sur-Cosson",
+        "Décision": "Décret du 23 juillet 1911[32]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Vannes-sur-Cosson",
+        "code_commune": "45331",
+        "coordonnees": {
+            "latitude": 47.7138888889,
+            "longitude": 2.21277777778
+        }
+    },
+    {
+        "Ancien nom": "Batilly",
+        "Nouveau nom": "Batilly-en-Gâtinais",
+        "Décision": "Décret du 11 décembre 1908[33]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Batilly-en-G%C3%A2tinais",
+        "code_commune": "45022",
+        "coordonnees": {
+            "latitude": 48.0744444444,
+            "longitude": 2.38166666667
+        }
+    },
+    {
+        "Ancien nom": "Fleury-aux-Choux",
+        "Nouveau nom": "Fleury-les-Aubrais",
+        "Décision": "Décret du 15 novembre 1907[34]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Fleury-les-Aubrais",
+        "code_commune": "45147",
+        "coordonnees": {
+            "latitude": 47.93111,
+            "longitude": 1.92083
+        }
+    },
+    {
+        "Ancien nom": "Sceaux",
+        "Nouveau nom": "Sceaux-du-Gâtinais",
+        "Décision": "Décret du 29 décembre 1905[35]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Sceaux-du-G%C3%A2tinais",
+        "code_commune": "45303",
+        "coordonnees": {
+            "latitude": 48.105,
+            "longitude": 2.5972222222
+        }
+    },
+    {
+        "Ancien nom": "Autruy",
+        "Nouveau nom": "Autruy-sur-Juine",
+        "Décision": "Décret du 30 juillet 1902[36]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Autruy-sur-Juine",
+        "code_commune": "45015",
+        "coordonnees": {
+            "latitude": 48.2763888889,
+            "longitude": 2.10277777778
+        }
+    },
+    {
+        "Ancien nom": "Châtillon-sur-Loing",
+        "Nouveau nom": "Châtillon-Coligny",
+        "Décision": "Décret du 24 mars 1896[37]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Ch%C3%A2tillon-Coligny",
+        "code_commune": "45085",
+        "coordonnees": {
+            "latitude": 47.8236111111,
+            "longitude": 2.84722222222
+        }
+    },
+    {
+        "Ancien nom": "Aschères",
+        "Nouveau nom": "Aschères-le-Marché",
+        "Décision": "Décret du 4 mars 1896[38]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Asch%C3%A8res-le-March%C3%A9",
+        "code_commune": "45009",
+        "coordonnees": {
+            "latitude": 48.1080555556,
+            "longitude": 2.00888888889
+        }
+    },
+    {
+        "Ancien nom": "Le Bignon",
+        "Nouveau nom": "Le Bignon-Mirabeau",
+        "Décision": "Décret du 13 décembre 1881[39]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Le_Bignon-Mirabeau",
+        "code_commune": "45032",
+        "coordonnees": {
+            "latitude": 48.1488888889,
+            "longitude": 2.92361111111
+        }
+    },
+    {
+        "Ancien nom": "Autry",
+        "Nouveau nom": "Autry-le-Châtel",
+        "Décision": "Décret du 15 mars 1878[40]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Autry-le-Ch%C3%A2tel",
+        "code_commune": "45016",
+        "coordonnees": {
+            "latitude": 47.5983333333,
+            "longitude": 2.60305555556
+        }
+    },
+    {
+        "Ancien nom": "Jouy-le-Pothier",
+        "Nouveau nom": "Jouy-le-Potier",
+        "Décision": "Décret du 14 décembre 1872[41]",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Jouy-le-Potier",
+        "code_commune": "45175",
+        "coordonnees": {
+            "latitude": 47.752944,
+            "longitude": 1.810341
+        }
+    },
+    {
+        "Ancien nom": "Beaune",
+        "Nouveau nom": "Beaune-la-Rolande",
+        "Décision": "1823",
+        "wikipedia_link": "https://fr.wikipedia.org/wiki/Beaune-la-Rolande",
+        "code_commune": "45030",
+        "coordonnees": {
+            "latitude": 48.0705555556,
+            "longitude": 2.43
+        }
+    }
+]
